@@ -1,2 +1,2 @@
 # AluraCast
-Projeto feito utilizando GRID
+Projeto  utilizando GRID
